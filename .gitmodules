@@ -1,0 +1,9 @@
+[submodule "tax_app_native"]
+	path = tax_app_native
+	url = https://github.com/muhammadskhattak/tax_app_native
+[submodule "tax_app"]
+	path = tax_app
+	url = https://github.com/muhammadskhattak/tax_app
+[submodule "tax_app_frontend"]
+	path = tax_app_frontend
+	url = https://github.com/muhammadskhattak/tax_app_frontend
